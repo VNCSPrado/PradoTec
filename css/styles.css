@@ -16,12 +16,14 @@ body{
     top: 50%;
     transform: translate(-50%,-50%);
     border-radius: 8px;
+    display: inline-block;
 }
 
 .container-painel h1{
     font-size: 50px;
     padding-top: 70px;
     padding-left: 85px;
+    
 }
 
 .first_letter{
@@ -39,7 +41,37 @@ body{
     padding-left: 190px;
     margin-top: -12px;
     color:#a9a9a9;
+    display: inline-block;
 
 }
 
+.container-painel p{
+    font-size: 24px;
+    font-weight: 700;
+    padding-top: 20px;
+    padding-left: 80px;
+    color:#000;
+    display: inline-block;
+
+}
+
+.letter-g{
+     color: #005000 ;
+}
+.space img{
+    height: 400px;
+    width: 400px;
+    margin-top: -170px;
+    margin-left: 500px;
+    border-radius: 0 8px 8px 0;
+}
+
+.img-social-networks img{
+    height: 24px;
+    padding-left: 80px;
+}
+
+.img-social-networks p{
+    font-size: 12px;
+}
 
