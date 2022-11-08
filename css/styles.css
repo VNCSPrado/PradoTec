@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+
+body{
+    background: #005000;
+    margin: 0;
+}
+
+.container-painel{
+    height: 400px;
+    width: 900px;
+    background-color: #fff;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 8px;
+}
+
+.container-painel h1{
+    font-size: 50px;
+    padding-top: 70px;
+    padding-left: 85px;
+}
+
+.first_letter{
+    color:#005000 ;
+    font-size: 70px;
+    
+}
+.sec_letter{
+    font-size: 70px;
+    
+}
+
+.container-painel h2{
+    font-size: 25px;
+    padding-left: 190px;
+    margin-top: -12px;
+    color:#a9a9a9;
+
+}
+
+
